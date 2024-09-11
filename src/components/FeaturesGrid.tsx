@@ -7,20 +7,20 @@ import FeatureModal from './FeatureModal';
 import { 
   FaUserCheck, FaDatabase, FaShieldAlt, FaHeartbeat, FaComments, 
   FaExclamationTriangle, FaBriefcase, FaPlane, FaRoute, FaUsers, 
-  FaHome, FaChartBar, FaBullhorn, FaGraduationCap, FaHandshake, 
-  FaMapMarkedAlt, FaArrowLeft, FaLightbulb, FaCalendarAlt, FaVideo, 
-  FaAppleAlt, FaPhone, FaSitemap, FaSearch, FaGavel, FaUserSecret, 
-  FaLeaf, FaChartLine, FaBell, FaTools, FaCogs, FaHammer, FaStore, 
+  FaChartBar, FaBullhorn, FaGraduationCap, FaHandshake, 
+  FaArrowLeft, FaCalendarAlt, FaVideo, 
+  FaPhone, FaSitemap, FaSearch, FaGavel, FaUserSecret, 
+  FaChartLine, FaBell, FaTools, FaCogs, FaStore, 
   FaBuilding, FaFileContract, FaBus, FaGlobe, 
   FaLanguage, FaHospital, FaCertificate, FaExchangeAlt, FaHeart, 
   FaProjectDiagram, FaClipboardCheck, FaFileAlt, FaBalanceScale, 
   FaLaptop, FaBook, FaIdCard, FaSync, FaHistory,
   FaListAlt, FaCheckCircle, FaCalculator, FaUpload, FaLink, FaSchool, 
-  FaUtensils, FaCommentDots, FaStar, FaCloudSun, FaMoneyBillWave, 
-  FaUserTie, FaWrench, FaHardHat, FaChalkboardTeacher, FaBookOpen, 
-  FaUserFriends, FaPassport, FaBed, FaMapMarked, FaVault, FaPhoneVolume, 
-  FaHandsHelping, FaUserGraduate, FaRocket, FaChartPie, FaRobot, 
-  FaClipboard, FaShareAlt, FaMapMarkerAlt
+  FaUtensils, FaStar, FaCloudSun, FaMoneyBillWave, 
+  FaUserTie, FaHardHat, FaBookOpen, 
+  FaUserFriends, FaBed, FaMapMarked, FaPhoneVolume, 
+  FaUserGraduate, FaRocket, FaChartPie, FaRobot, 
+  FaShareAlt, FaMapMarkerAlt
 } from 'react-icons/fa';
 
 const features = [
@@ -145,7 +145,7 @@ const features = [
       { name: 'Transportation assistance booking', icon: FaBus },
       { name: 'Accommodation finder', icon: FaBed },
       { name: 'Journey tracking for safety', icon: FaMapMarked },
-      { name: 'Document vault', icon: FaVault }
+      { name: 'Document vault', icon: FaDatabase }
     ]
   },
   {
